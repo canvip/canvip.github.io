@@ -1,7 +1,7 @@
 ---
 layout: page
 title: من أنا
-permalink: /about/
+permalink: /test/
 ---
 Hi, I'm Ahmed Alaa 
 Technical Support and Junior Developer
