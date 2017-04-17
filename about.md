@@ -1,6 +1,7 @@
 ---
 layout: page
 title: من أنا
+description: Discovered-idea
 permalink: /about/
 ---
 Hi, I'm Ahmed Alaa 
