@@ -1,6 +1,6 @@
 ---
 layout: page
-title: pracle apex
+title: oracle apex
 permalink: /oracle/
 ---
 
